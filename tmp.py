@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #num = int(input("Enter value: "))
-abc = 10
+abc = 200
 num = int(abc)
 list = []
 
