@@ -1,5 +1,7 @@
 #!/usr/bin/python
-num = int(input("Enter value: "))
+#num = int(input("Enter value: "))
+abc = 10
+num = int(abc)
 list = []
 
 for i in range(num):
